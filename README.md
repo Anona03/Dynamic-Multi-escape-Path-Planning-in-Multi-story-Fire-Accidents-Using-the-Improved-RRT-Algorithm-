@@ -1,0 +1,2 @@
+# Dynamic-Multi-escape-Path-Planning-in-Multi-story-Fire-Accidents-Using-the-Improved-RRT-Algorithm-
+Improved RRT* for dynamic fire evacuation in multi-story buildings. Features temporal rewiring for dynamic obstacle avoidance, adaptive constrained sampling, multi-path planning, and grid-based fire/smoke simulation. Outperforms A*, Ant Colony, APF, and improved RRT in path length and runtime. Python implementation. 
