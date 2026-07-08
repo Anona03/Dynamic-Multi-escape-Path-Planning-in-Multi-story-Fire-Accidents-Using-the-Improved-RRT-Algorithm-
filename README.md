@@ -176,23 +176,7 @@ Potential extensions include
 
 ---
 
-## Citation
 
-If you use this project in your research, please cite:
-
-> Dynamic Multi-Escape Path Planning in Multi-Story Fire Accidents Using the Improved RRT*M Algorithm, Undergraduate Senior Project, Sichuan University–Pittsburgh Institute, 2026.
-
----
-
-## Authors
-
-* Mouyong Jiang
-* Jingwei Luo
-* Junwei Fu
-
-Sichuan University–Pittsburgh Institute
-
----
 
 ## License
 
