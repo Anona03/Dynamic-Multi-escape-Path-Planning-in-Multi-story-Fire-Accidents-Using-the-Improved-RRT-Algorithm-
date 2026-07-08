@@ -1,0 +1,59 @@
+# Byte-compiled / optimized
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution
+
+build/
+dist/
+*.egg-info/
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Python cache
+
+.pytest_cache/
+.mypy_cache/
+
+# Matplotlib cache
+
+.matplotlib/
+
+# Generated figures
+
+*.png
+*.gif
+*.jpg
+*.jpeg
+
+# Temporary files
+
+*.tmp
