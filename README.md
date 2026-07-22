@@ -42,8 +42,7 @@ The system simulates multi-floor office buildings using grid maps and continuous
 ├── Model_fire.py          # Fire environment (Floor A)
 ├── Model_fire2.py         # Fire environment (Floor B)
 ├── RRT-fast.py            # Improved RRT*M implementation
-├── README.md
-└── Design report.pdf      # Project report (optional)
+└── README.md      
 ```
 
 ---
